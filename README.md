@@ -6,7 +6,7 @@ This is the official implementation of our paper [SP-ViT: Learning 2D Spatial Pr
 
 This is a Pytorch implementation of our paper. 
 
-![Compare](figures/Intro.pdf)
+![Compare](intro.pdf)
 
 Comparison between our proposed SP-ViT and state-of-the-art vision transformers. Note that we exclude models pretrained on extra data or larger
 resolution than 224 × 224 for a fair comparison.
