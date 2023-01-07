@@ -18,17 +18,17 @@ Our implementation is based on the [TokenLabeling](https://github.com/zihangJian
 | Model                           | layer | dim  | Image resolution |  Param  | Top 1 |Download |
 | :------------------------------ | :---- | :--- | :--------------: |-------: | ----: |   ----: |
 | SP-ViT-S                        | 16    | 384  |       224        |  26M |  83.9 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 | SP-ViT-S                        | 16    | 384  |       384        |  26M |  85.1 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 | SP-ViT-M                        | 20    | 512  |       224        |  56M |  84.9 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 | SP-ViT-M                        | 20    | 512  |       384        |  56M |  86.0 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 | SP-ViT-L                        | 24    | 768  |       224        | 150M |  85.5 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 | SP-ViT-L                        | 24    | 768  |       384        | 150M |  86.3 |[link]
-(https://github.com/ZhouYuxuanYX/SP-ViT/releases/download/1.0/) |
+(https://github.com/ZhouYuxuanYX/SP-ViT/releases/tag/download/) |
 
 #### Requirements
 pyyaml
