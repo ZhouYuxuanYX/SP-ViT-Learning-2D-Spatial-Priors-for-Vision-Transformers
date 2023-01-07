@@ -1,8 +1,6 @@
 # SP-ViT
 This is the official implementation of our paper [SP-ViT: Learning 2D Spatial Priors for Vision Transformers.](https://arxiv.org/pdf/2206.07662.pdf)
 
-This is a Pytorch implementation of our paper. 
-
 ![Compare](intro.png)
 
 Comparison between our proposed SP-ViT and state-of-the-art vision transformers. Note that we exclude models pretrained on extra data or larger
