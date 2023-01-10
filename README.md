@@ -81,7 +81,7 @@ Please refer to [TokenLabeling](https://github.com/zihangJiang/TokenLabeling) fo
 
 We apply the visualization method [Transformer-Explainability] (https://github.com/hila-chefer/Transformer-Explainability) to visualize the parts of the image that led to a certain classification for DeiT-S and our SP-ViT-S (w/o TokenLabeling). The parts of the image that used by the network to make the decision are highlighted in red.
 
-![Compare](figures/vis_spvit.pdf)
+![Compare](vis.png)
 
 ### Label generation
 To generate token label data for training:
