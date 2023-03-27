@@ -1,7 +1,10 @@
 # SP-ViT
 This is the official implementation of our BMVC 2022 paper [SP-ViT: Learning 2D Spatial Priors for Vision Transformers.](https://arxiv.org/pdf/2206.07662.pdf)
 
-![Compare](intro.png)
+<p align="center">
+   <img src="intro.png" alt="drawing" width="550"/>
+</p>
+
 
 Comparison between our proposed SP-ViT and state-of-the-art vision transformers. Note that we exclude models pretrained on extra data or larger
 resolution than 224 × 224 for a fair comparison.
